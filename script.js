@@ -1,3 +1,4 @@
+// animations
 const sheryEffect = ()=>{
   Shery.mouseFollower();
   Shery.makeMagnet(".magnet")
